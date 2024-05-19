@@ -1026,7 +1026,6 @@ for string in initialSplit {
     
     // Part 2
     let smallestSidePerimeter = allSides[0] + allSides[0] + allSides[1] + allSides[1]
-    
     let cubicFeetOfBox = allSides[0] * allSides[1] * allSides[2]
     
     feetRibbonNeeded += smallestSidePerimeter + cubicFeetOfBox
