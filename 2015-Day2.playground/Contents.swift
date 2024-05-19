@@ -1031,5 +1031,7 @@ for string in initialSplit {
     feetRibbonNeeded += smallestSidePerimeter + cubicFeetOfBox
 }
 
+// Part 1 answer printed
 print(totalWrappingPaperInFeet)
+// Part 2 answer printed
 print(feetRibbonNeeded)
